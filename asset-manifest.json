@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7Brepository-name%7D/static/css/main.70ee936b.css",
-    "main.js": "/%7Brepository-name%7D/static/js/main.411d3264.js",
-    "static/js/577.7f5f88b5.chunk.js": "/%7Brepository-name%7D/static/js/577.7f5f88b5.chunk.js",
-    "static/js/939.69fc7658.chunk.js": "/%7Brepository-name%7D/static/js/939.69fc7658.chunk.js",
-    "static/js/373.d6ccaa8f.chunk.js": "/%7Brepository-name%7D/static/js/373.d6ccaa8f.chunk.js",
-    "static/js/694.f31ac035.chunk.js": "/%7Brepository-name%7D/static/js/694.f31ac035.chunk.js",
-    "static/js/657.c2704b92.chunk.js": "/%7Brepository-name%7D/static/js/657.c2704b92.chunk.js",
-    "static/js/351.061c89d5.chunk.js": "/%7Brepository-name%7D/static/js/351.061c89d5.chunk.js",
-    "static/js/334.015c65ec.chunk.js": "/%7Brepository-name%7D/static/js/334.015c65ec.chunk.js",
-    "index.html": "/%7Brepository-name%7D/index.html",
-    "main.70ee936b.css.map": "/%7Brepository-name%7D/static/css/main.70ee936b.css.map",
-    "main.411d3264.js.map": "/%7Brepository-name%7D/static/js/main.411d3264.js.map"
+    "main.css": "/ksmi-website/static/css/main.70ee936b.css",
+    "main.js": "/ksmi-website/static/js/main.4ce42e8b.js",
+    "static/js/577.7f5f88b5.chunk.js": "/ksmi-website/static/js/577.7f5f88b5.chunk.js",
+    "static/js/939.69fc7658.chunk.js": "/ksmi-website/static/js/939.69fc7658.chunk.js",
+    "static/js/373.d6ccaa8f.chunk.js": "/ksmi-website/static/js/373.d6ccaa8f.chunk.js",
+    "static/js/694.f31ac035.chunk.js": "/ksmi-website/static/js/694.f31ac035.chunk.js",
+    "static/js/657.c2704b92.chunk.js": "/ksmi-website/static/js/657.c2704b92.chunk.js",
+    "static/js/351.061c89d5.chunk.js": "/ksmi-website/static/js/351.061c89d5.chunk.js",
+    "static/js/334.015c65ec.chunk.js": "/ksmi-website/static/js/334.015c65ec.chunk.js",
+    "index.html": "/ksmi-website/index.html",
+    "main.70ee936b.css.map": "/ksmi-website/static/css/main.70ee936b.css.map",
+    "main.4ce42e8b.js.map": "/ksmi-website/static/js/main.4ce42e8b.js.map"
   },
   "entrypoints": [
     "static/css/main.70ee936b.css",
-    "static/js/main.411d3264.js"
+    "static/js/main.4ce42e8b.js"
   ]
 }
