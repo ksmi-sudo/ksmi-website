@@ -1,0 +1,31 @@
+{
+  "upcomingSeminars": [
+    {
+      "id": 1,
+      "date": "2025년 x월 xx일",
+      "title": "2025년 봄 학술대회",
+      "location": "한국과학기술원",
+      "topic": "음악정보학 연구 발표",
+      "featured": true
+    }
+  ],
+  "pastSeminars": [
+    {
+      "id": 1,
+      "title": "2025년 겨울 학술대회",
+      "date": "2025년 x월 xx일",
+      "materials": {
+        "presentation": "#",
+        "video": "#"
+      }
+    }
+  ],
+  "workshops": [
+    {
+      "id": 1,
+      "title": "음악 데이터 분석 워크숍",
+      "date": "2025년 x월 xx일",
+      "description": "Python을 활용한 음악 데이터 분석 기초"
+    }
+  ]
+} 

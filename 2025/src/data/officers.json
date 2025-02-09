@@ -1,0 +1,60 @@
+{
+  "executives": [
+    {
+      "position": "학회장",
+      "name": "남주한",
+      "title": "교수",
+      "affiliation": "한국과학기술원",
+      "image": "/img/juhan_nam.jpg"
+    },
+    {
+      "position": "부회장",
+      "name": "이교구",
+      "title": "교수",
+      "affiliation": "서울대학교",
+      "image": "/img/kyogu_lee.jpg"
+    }
+  ],
+  "directors": [
+    {
+      "title": "학술이사",
+      "members": [
+        {
+          "name": "정다샘",
+          "affiliation": "서강대학교"
+        },
+        {
+          "name": "이경면",
+          "affiliation": "한국과학기술원"
+        }
+      ]
+    },
+    {
+      "title": "편집이사",
+      "members": [
+        {
+          "name": "정다샘",
+          "affiliation": "서강대학교"
+        },
+        {
+          "name": "이경면",
+          "affiliation": "한국과학기술원"
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "창간 위원회",
+      "chair": "도승헌",
+      "secretary": "한단비내린, 정해선"
+    }
+  ],
+  "advisors": [
+    {
+      "name": "원광연",
+      "title": "명예교수",
+      "affiliation": "한국과학기술원"
+    }
+  ]
+} 

@@ -1,0 +1,38 @@
+{
+  "greeting": {
+    "presidentName": "남주한",
+    "presidentImage": "/img/juhan_nam.jpg",
+    "message": [
+      "한국음악정보학회 홈페이지를 방문해 주신 여러분을 환영합니다.",
+      "한국음악정보학회(Korean Society of Music Informatics)는 음악정보검색(Music Information Retrieval) 분야의 연구 발전을 위해 설립된 비영리 학술단체입니다. 우리 학회는 음악 관련 데이터를 처리, 검색, 분석, 생성 및 접근하기 위한 컴퓨터 기술 개발을 목표로 하고 있습니다. 회원들 간의 아이디어와 활동 교류를 촉진하고, MIR 분야의 연구와 교육을 장려하며, 다양한 분야의 회원들이 참여할 수 있도록 지원하고 있습니다. 또한 매년 정기 학술대회를 개최하여 연구 성과를 공유하고 학문적 교류를 도모하고 있습니다."
+    ]
+  },
+  "history": [
+    {
+      "year": "Future",
+      "event": "학회지 \"음악정보연구\" 창간"
+    },
+    {
+      "year": "2025",
+      "event": "제1회 정기 학술대회 개최"
+    },
+    {
+      "year": "2024",
+      "event": "한국음악정보학회 설립"
+    }
+  ],
+  "activities": [
+    {
+      "title": "학술연구",
+      "description": "정기 학술대회 및 세미나 개최"
+    },
+    {
+      "title": "출판",
+      "description": "학회지 및 연구자료집 발간"
+    },
+    {
+      "title": "교류협력",
+      "description": "국내외 유관기관과의 학술교류"
+    }
+  ]
+} 

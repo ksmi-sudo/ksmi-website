@@ -1,0 +1,84 @@
+.related-sites {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.related-sites section {
+  margin-bottom: 40px;
+}
+
+.related-sites h2 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #eee;
+}
+
+.related-sites h3 {
+  font-size: 1.5em;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.sites-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.site-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.site-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.site-card li {
+  margin-bottom: 20px;
+}
+
+.site-card li:last-child {
+  margin-bottom: 0;
+}
+
+.site-card a {
+  color: #2c5282;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1em;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.site-card a:hover {
+  color: #1a365d;
+  text-decoration: underline;
+}
+
+.site-card p {
+  color: #666;
+  font-size: 0.9em;
+  margin: 5px 0 0 0;
+}
+
+@media (max-width: 768px) {
+  .sites-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-sites h2 {
+    font-size: 1.8em;
+  }
+
+  .related-sites h3 {
+    font-size: 1.3em;
+  }
+} 

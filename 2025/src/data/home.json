@@ -1,0 +1,49 @@
+{
+  "mainBanner": {
+    "title": "한국음악정보학회",
+    "subtitle": "Korean Society for Music Information",
+    "description": "음악정보학의 발전과 연구를 위한 학술 단체"
+  },
+  "announcements": [
+    {
+      "id": 1,
+      "title": "2025 봄 학술대회 개최 안내",
+      "date": "2025.xx.xx",
+      "important": true
+    },
+    {
+      "id": 2,
+      "title": "2025년 신입회원 모집",
+      "date": "2025.xx.xx",
+      "important": true
+    }
+  ],
+  "upcomingEvents": [
+    {
+      "id": 1,
+      "title": "봄 학술대회",
+      "date": "2025.xx.xx",
+      "location": "한국과학기술원"
+    },
+    {
+      "id": 2,
+      "title": "음악정보학 세미나",
+      "date": "2025.xx.xx",
+      "location": "온라인 진행"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "학회지 '음악정보연구' 제1호 발간",
+      "date": "2025.xx.xx",
+      "summary": "한국음악정보학회의 첫 학회지가 발간되었습니다."
+    },
+    {
+      "id": 2,
+      "title": "2025년도 연구지원사업 선정",
+      "date": "2025.xx.xx",
+      "summary": "한국연구재단 학술연구지원사업에 선정되었습니다."
+    }
+  ]
+} 
